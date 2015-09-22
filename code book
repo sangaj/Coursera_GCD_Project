@@ -1,0 +1,74 @@
+ $ subject   
+   subject code
+   the subject who performed the activity for each window sample. Its range is from 1 to 30   
+   1: 30
+ $ activity                         
+   activity code 
+         1 WALKING
+         2 WALKING_UPSTAIRS
+         3 WALKING_DOWNSTAIRS
+         4 SITTING
+         5 STANDING
+         6 LAYING
+
+   
+ $ tBodyAccmeanX                    
+   the mean of time Body accelerometer in X directions
+   numbers [-1,1]
+ $ tBodyAccmeanY  
+   the mean of time Body accelerometer in Y directions  
+   numbers [-1,1]                
+ $ tBodyAccmeanZ                    
+  the mean of time Body accelerometer in Z directions  
+   numbers [-1,1]  
+ $ tGravityAccmeanX                 
+   the mean of time Gravity accelerometer in X directions  
+   numbers [-1,1]  
+ $ tGravityAccmeanY 
+   the mean of time Gravity accelerometer in Y directions  
+   numbers [-1,1]  
+ $ tGravityAccmeanZ                 
+   the mean of time Gravity accelerometer in Z directions  
+   numbers [-1,1]  
+ $ tBodyAccJerkmeanX                
+   the mean of time Body accelerometer Jerk signal in X directions  
+   numbers [-1,1]
+ $ tBodyAccJerkmeanY                
+   the mean of time Body accelerometer Jerk signal in Y directions  
+   numbers [-1,1]
+ $ tBodyAccJerkmeanZ                
+   the mean of time Body accelerometer Jerk signal in Z directions  
+   numbers [-1,1]
+ $ tBodyGyromeanX  
+   the mean of time Body gyroscope in X directions
+   numbers [-1,1]
+ $ tBodyGyromeanY  
+    the mean of time Body gyroscope in Y directions
+   numbers [-1,1]
+ $ tBodyGyromeanZ                   
+   the mean of time Body gyroscope in Z directions
+   numbers [-1,1]
+ $ tBodyGyroJerkmeanX               
+   the mean of time gyroscope accelerometer Jerk signal in X directions  
+   numbers [-1,1]
+ $ tBodyGyroJerkmeanY               
+   the mean of time gyroscope accelerometer Jerk signal in Y directions  
+   numbers [-1,1]
+ $ tBodyGyroJerkmeanZ               
+   the mean of time gyroscope accelerometer Jerk signal in Y directions  
+   numbers [-1,1]
+ $ tBodyAccMagmean 
+    the mean of time body accelerometer the magnitude of these three-dimensional signals 
+   numbers [-1,1]
+ $ tGravityAccMagmean  
+   the mean of time Gravity accelerometer the magnitude of these three-dimensional signals 
+   numbers [-1,1]
+ $ tBodyAccJerkMagmean
+   the mean of time body accelerometer jerk signal the magnitude of these three-dimensional signals 
+   numbers [-1,1]
+ $ tBodyGyroMagmean  
+   the mean of time body gyroscope the magnitude of these three-dimensional signals 
+   numbers [-1,1]            
+etc...
+
+time is limited, I don't plan to waste time to copy and explain it.      
