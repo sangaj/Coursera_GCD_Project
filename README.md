@@ -31,6 +31,10 @@ For each record it is provided:
 #1.R script
    you could open it to read how I get the tidy data set, and some simple explanation for code in it.
    Please note that, you should set  your own directory first.
+   first of all, read the data from txt files
+   put the test and train file together and rename the dataset 
+   join the label into the data set
+   get the tidy data set
 #2.Codebook
    you could know how the variables are described.
 #3.output   
