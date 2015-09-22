@@ -28,7 +28,7 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 
 ## What I have
-#1.R script
+#1.run_analysis.R script
    you could open it to read how I get the tidy data set, and some simple explanation for code in it.
    Please note that, you should set  your own directory first.
    first of all, read the data from txt files
