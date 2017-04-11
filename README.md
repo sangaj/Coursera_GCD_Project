@@ -1,4 +1,4 @@
-# course project for GCD
+# Course project for GCD
 The goal of this course project is to prepare a tidy data set for later analysis.
 
 # Data background
