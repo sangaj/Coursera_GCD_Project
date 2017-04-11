@@ -2,7 +2,7 @@
 The goal of this course project is to prepare a tidy data set for later analysis.
 
 # Data background
-==================================================================
+
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
@@ -28,17 +28,17 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 
 ## What I have
-#1.run_analysis.R script
-   you could open it to read how I get the tidy data set, and some simple explanation for code in it.
-   Please note that, you should set  your own directory first.
-   first of all, read the data from txt files
-   put the test and train file together and rename the dataset 
-   join the label into the data set
-   get the tidy data set
-#2.Codebook
-   you could know how the variables are described.
-#3.output   
-   an txt file called subdata is the output of the code while it is my tidy data set.
+1.run_analysis.R script
+  - you could open it to read how I get the tidy data set, and some simple explanation for code in it.
+  - Please note that, you should set  your own directory first.
+  - first of all, read the data from txt files
+  - put the test and train file together and rename the dataset 
+  - join the label into the data set
+  - get the tidy data set
+2.Codebook
+  - you could know how the variables are described.
+3.output   
+  - an txt file called subdata is the output of the code while it is my tidy data set.
 
 ## Project extension
- I did it according to the questions. Due to the limited time I have, I didn't think it could be finished here. So this part I may give some project extension thinking to show a potential excellent dataset. After I did for these questions, I may use reshape package to melt the features because of the long name by setting this variables as features, and then seperate two calculation methods mean and sd by giving the variable methods. I may also set a variable axis to distinguish X,Y,Z and others. I guess this kind of data set would be more easily reading and understanding. 
+I did it according to the questions. Due to the limited time I have, I didn't think it could be finished here. So this part I may give some project extension thinking to show a potential excellent dataset. After I did for these questions, I may use reshape package to melt the features because of the long name by setting this variables as features, and then seperate two calculation methods mean and sd by giving the variable methods. I may also set a variable axis to distinguish X,Y,Z and others. I guess this kind of data set would be more easily reading and understanding. 
