@@ -1,4 +1,5 @@
-setwd("C:/Users/gubingjing/Downloads/UCI HAR Dataset")# set the directory
+# set directory and loading packages
+setwd("C:/Users/gubingjing/Downloads/UCI HAR Dataset")
 library(dplyr)
 library(plyr) 
 
